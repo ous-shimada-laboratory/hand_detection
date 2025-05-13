@@ -126,7 +126,7 @@ https://apps.apple.com/jp/app/japananimemaps/id6608967051<br>
 〒150-0043<br>
 東京都 渋谷区道玄坂1丁目10番8号渋谷道玄坂東急ビル2F-C<br>
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝<br>
-※本メールに掲載された記事を許可なく転載することを禁じます。<br>
+※本文に掲載された記事を許可なく転載することを禁じます。<br>
 (c)2024 JapanAnimeMaps.All Rights Reserved.<br>
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
