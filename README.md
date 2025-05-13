@@ -18,4 +18,9 @@
 - NumPy
 
 ```bash
-pip install opencv-python numpy
+pip3 install opencv-python numpy
+
+
+## 必要条件
+```bash
+python3 hand_detection.py
